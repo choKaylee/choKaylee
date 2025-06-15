@@ -6,6 +6,7 @@ Hi, <br> I'm Kaylee, a Data Scientist.<br> I am currently a student at the Unive
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/choKaylee) 
 [![Notion Portfolio](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://kayleecho.notion.site/?pvs=74)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jcho02)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
