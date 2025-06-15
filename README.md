@@ -1,6 +1,6 @@
 # 🌟 Kaylee Cho
 
-Hi, <br> I'm Kaylee,a Data Scientist.<br> I am currently a student at the Univeresity of Washington majoring in Informatics. I like using ML models and python to find insights from complex datasets. And I also enjoy connecting the dots between finance and data to understand the world and how markets react to events which led me sat for CFA level 1 on May, 2025. I have experience using R markdown, Python, SQL, Tableau, and Statistical Analysis.
+Hi, <br> I'm Kaylee, a Data Scientist.<br> I am currently a student at the Univeresity of Washington majoring in Informatics. I like using ML models and python to find insights from complex datasets. And I also enjoy connecting the dots between finance and data to understand the world and how markets react to events which led me sat for CFA level 1 on May, 2025. I have experience using R markdown, Python, SQL, Tableau, and Statistical Analysis.
 
 
 ## 🌐 Socials:
